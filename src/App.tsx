@@ -1,12 +1,7 @@
-import './App.css'
+import { MovieSearch } from './components/MovieSearch';
 
 function App() {
-
-  return (
-    <h1 className="text-3xl font-bold underline">
-      Hello world!
-    </h1>
-  )
+  return <MovieSearch />;
 }
 
-export default App
+export default App;
