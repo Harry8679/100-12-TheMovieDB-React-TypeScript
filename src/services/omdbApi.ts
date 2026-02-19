@@ -1,6 +1,6 @@
 // import type { Movie, MovieDetails, SearchResponse } from '../types';
 
-import type { Movie } from "../types";
+import type { Movie, MovieDetails, SearchResponse } from "../types";
 
 // const API_KEY = import.meta.env.VITE_OMDB_API_KEY as string;
 const API_KEY = import.meta.env.VITE_OMDB_API_KEY || '709f4c3e7cb875e88e2525cdf70ae5a4';
